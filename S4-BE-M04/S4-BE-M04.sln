@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Emanuel En Syon", "Emanuel En Syon", "{E69301F9-5B1D-4F6B-9BD4-62F3C2FFD1EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundSharpMVCWithDB", "Emanuel En Syon\SoundSharpMVCWithDB\SoundSharpMVCWithDB.csproj", "{07B36032-CAEF-45FF-89FA-46864974DA13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioDevices", "AudioDevices\AudioDevices.csproj", "{5AA10791-E090-4867-9EFC-FAA4094DB75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B36032-CAEF-45FF-89FA-46864974DA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B36032-CAEF-45FF-89FA-46864974DA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B36032-CAEF-45FF-89FA-46864974DA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B36032-CAEF-45FF-89FA-46864974DA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA10791-E090-4867-9EFC-FAA4094DB75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA10791-E090-4867-9EFC-FAA4094DB75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA10791-E090-4867-9EFC-FAA4094DB75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA10791-E090-4867-9EFC-FAA4094DB75C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{07B36032-CAEF-45FF-89FA-46864974DA13} = {E69301F9-5B1D-4F6B-9BD4-62F3C2FFD1EB}
+		{5AA10791-E090-4867-9EFC-FAA4094DB75C} = {E69301F9-5B1D-4F6B-9BD4-62F3C2FFD1EB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7870837B-19EF-489B-88E4-B8929F7B9870}
+	EndGlobalSection
+EndGlobal
